@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm xiaoyaliu/alist
 --platform=linux/arm xiaoyaliu/alist:hostmode
+emby/embyserver_arm32v7:4.8.0.56
