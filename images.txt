@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm xiaoyaliu/alist
 --platform=linux/arm xiaoyaliu/alist:hostmode
 emby/embyserver_arm32v7:4.8.0.56
+--platform=linux/arm outlovecn/portainer-cn
