@@ -1,2 +1,1 @@
---platform=linux_arm amilys/embyserver:4.8.0.56
 --platform=linux_arm 2fauth/2fauth:4.2.4
