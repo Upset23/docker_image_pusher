@@ -1,4 +1,4 @@
---platform=linux/arm 2fauth/2fauth:4.2.4
+--platform=linux/arm 2fauth/2fauth:latest
 --platform=linux/arm johngong/aria2:latest
---platform=linux/arm moelin/1panel:latest
+--platform=linux/arm liwei2633/gopeed:latest
 
