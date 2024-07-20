@@ -1,2 +1,2 @@
---platform=linux_arm 2fauth/2fauth:4.2.4
+--platform=linux/arm 2fauth/2fauth:4.2.4
 
