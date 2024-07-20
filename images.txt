@@ -1,2 +1,4 @@
 --platform=linux/arm 2fauth/2fauth:4.2.4
+--platform=linux/arm johngong/aria2:latest
+--platform=linux/arm moelin/1panel:latest
 
